@@ -1,6 +1,6 @@
 {
   "name": "react-zipizape",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React wrapper for Zipizape",
   "main": "dist/es5/index.js",
   "jsnext:main": "dist/es2015/index.js",
