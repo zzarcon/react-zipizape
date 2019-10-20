@@ -1,0 +1,1 @@
+export {Zipizape, ZipizapeProps, ZipResult} from './zipizape';
